@@ -16,6 +16,7 @@ Two datasets that reside in S3. Below are the S3 links for each:
 # Project Description
 
 I will apply the skills learnt from the data warehouses and AWS to build an ETL pipeline for a database hosted on Redshift. I will be loading data from S3 to staging tables on Redshift and execute SQL statements that create the analytics tables from these staging tables. I will apply the learnt optimization techniques to copy the dimensions tables on each cluster and distribute the fact table on the constructed clusters which provide fast response to queries from my DWH.
+
 ![Architecture](https://github.com/dinaAbdelrahman/DataEngineering.P3.Data-Warehourse-on-Redshift/blob/master/architecture_AWS.GIF)
 
 # Overview for the structure of the tables
